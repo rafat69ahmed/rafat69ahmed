@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hi, This is Rafat Ahmed 👋 👨‍💻
 
-<!--
-**rafat69ahmed/rafat69ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior software engineer and backend architect with more than 5 years of industry experience across different industries, platforms, systems and services. Over the last 4 years I'm completely focused on web development. I love designing infrastructures and I've experience working as a Web backend Architect and also I have efficient knowledge in frontend. Always try to maintain all the industry standards during development to deployment - such as test driven development, proper use of git flow and all containerisation technologies.
 
-Here are some ideas to get you started:
+## Technical Skills & Competences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+- php
+- python
+- javascript
+
+### Backend
+- Laravel, Symphony
+- Node.js, AdonisJS
+- flask, django
+
+### Frontend
+- ReactJS, Redux, AntDesign
+- Vue js
+
+### Database
+- MySQL, MongoDB, RedisCache
+
+### Cloud
+- Setting up cloud, VPS
+- GCP, AWS, Digitalocean, Linode
+- Nginx, Apache
+- Server management, Troubleshooting, Load balancing
+
+
+![rafat69ahmed github stats](https://github-readme-stats.vercel.app/api?username=rafat69ahmed&show_icons=true&hide_border=true)
