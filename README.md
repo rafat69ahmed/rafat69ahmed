@@ -30,4 +30,4 @@ Senior software engineer and backend architect with more than 5 years of industr
 
 ![rafat69ahmed github stats](https://github-readme-stats.vercel.app/api?username=rafat69ahmed&show_icons=true&hide_border=true)
 
-![Top Langs](https://github.com/rafat69ahmed/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafat69ahmed&layout=compact)
