@@ -9,6 +9,8 @@ Senior software engineer and backend architect with more than 5 years of industr
 - python
 - javascript
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafat69ahmed&langs_count=8)](https://github.com/rafat69ahmed/github-readme-stats)
+
 ### Backend
 - Laravel, Symphony
 - Node.js, AdonisJS
