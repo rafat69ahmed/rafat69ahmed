@@ -1,6 +1,6 @@
 # Hi, This is Rafat Ahmed 👋 👨‍💻
 
-Senior software engineer and backend architect with more than 5 years of industry experience across different industries, platforms, systems and services. Over the last 4 years I'm completely focused on web development. I love designing infrastructures and I've experience working as a Web backend Architect and also I have efficient knowledge in frontend. Always try to maintain all the industry standards during development to deployment - such as test driven development, proper use of git flow and all containerisation technologies.
+Senior software engineer and backend architect with more than 6 years of industry experience across different industries, platforms, systems and services. Over the last 5 years I'm completely focused on web development. I love designing infrastructures and I've experience working as a Web backend Architect and also I have efficient knowledge in frontend. Always try to maintain all the industry standards during development to deployment - such as test driven development, proper use of git flow and all containerisation technologies.
 
 ## Technical Skills & Competences
 
@@ -20,6 +20,9 @@ Senior software engineer and backend architect with more than 5 years of industr
 
 ### Database
 - MySQL, MongoDB, RedisCache
+
+### Other Tools
+- Elastic Search, Algolia
 
 ### Cloud
 - Setting up cloud, VPS
