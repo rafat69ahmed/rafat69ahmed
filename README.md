@@ -5,13 +5,14 @@ Senior software engineer and backend architect with more than 6 years of industr
 ## Technical Skills & Competences
 
 ### Languages
+- javascript
 - php
 - python
-- javascript
+
 
 ### Backend
-- Laravel, Symphony
 - Node.js, AdonisJS
+- Laravel, Symphony
 - flask, django
 
 ### Frontend
@@ -26,7 +27,7 @@ Senior software engineer and backend architect with more than 6 years of industr
 
 ### Cloud
 - Setting up cloud, VPS
-- GCP, AWS, Digitalocean, Linode
+- GCP, AWS, Digitalocean
 - Nginx, Apache
 - Server management, Troubleshooting, Load balancing
 
